@@ -1,0 +1,8 @@
+1、chatlog 用来存储聊天记录
+2、emojis 用来存储表情图片
+3、icon 存储程序用到的图片
+4、src 源代码
+5、data.cheng 存储程序的数据
+6、bird.au 鸟叫背景音
+7、sea.au 海浪背景音
+8、setting.cheng 用户设置信息
