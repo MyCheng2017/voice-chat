@@ -91,7 +91,7 @@ public class EmailUtils {
 		properties.put("mail.transport.protocol", "smtp");
 
 		if (from.endsWith("@163.com")) {
-			properties.put("mail.smtp.host", "smtp.sohu.com");
+			properties.put("mail.smtp.host", "smtp.163.com");
 		} else if (from.endsWith("@sohu.com")) {
 			properties.put("mail.smtp.host", "smtp.sohu.com");
 		} else if (from.endsWith("@qq.com")) {
